@@ -1,0 +1,18 @@
+<!doctype html>
+<html> 
+<head> 
+<script language="javascript"> 
+function opera(){ 
+var uno = document.all.uno.value; 
+var dos = document.all.dos.value;	
+document.all.resultado.innerText = "La suma es: " + (parseInt(uno) + parseInt(dos)) + " Su resta es: " + (uno - dos) + " Su multiplicación es: " + (uno * dos) + " Su división es: " + (uno / dos); 
+} 
+</script> 
+</head> 
+<body> 
+Número Uno <input type="text" id="uno" /> 
+Número Dos <input type="text" id="dos" /> 
+<input type="button" onclick="opera();" value="Hacer operaciones"> 
+<span id="resultado">Respuesta</span> 
+</body> 
+</html> 
