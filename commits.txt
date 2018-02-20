@@ -1,0 +1,20 @@
+commit efb445c2d8b77bf0260cc1bc17a0e61560235bfd 
+Author: wilsongus2003 <wilsogus2003@yahoo.com>
+Date:  
+ Mon Feb 19 10:45:42 2018 -0500
+
+    modificamos demo 6 y los estilos
+
+
+commit 466b7cf09f8342f11e40985666de46ec5a899a60 
+Author: wilsongus2003 <wilsogus2003@yahoo.com>
+Date:   Mon Feb 19 10:39:37 2018 -0500
+
+    agregamos un a ueva lista en demo6.html
+
+
+commit 386482435b8e09455fc8cc48ed568328e815e51c 
+Author: wilsongus2003 <wilsogus2003@yahoo.com>
+Date:   Mon Feb 19 10:36:07 2018 -0500
+
+    iniciamos
